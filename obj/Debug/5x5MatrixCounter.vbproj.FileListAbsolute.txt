@@ -1,0 +1,11 @@
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\5x5MatrixCounter.vbprojAssemblyReference.cache
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\_5x5MatrixCounter.Form1.resources
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\_5x5MatrixCounter.Resources.resources
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\5x5MatrixCounter.vbproj.GenerateResource.cache
+C:\Users\RYAN\source\repos\5x5MatrixCounter\bin\Debug\5x5MatrixCounter.exe.config
+C:\Users\RYAN\source\repos\5x5MatrixCounter\bin\Debug\5x5MatrixCounter.exe
+C:\Users\RYAN\source\repos\5x5MatrixCounter\bin\Debug\5x5MatrixCounter.pdb
+C:\Users\RYAN\source\repos\5x5MatrixCounter\bin\Debug\5x5MatrixCounter.xml
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\5x5MatrixCounter.exe
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\5x5MatrixCounter.xml
+C:\Users\RYAN\source\repos\5x5MatrixCounter\obj\Debug\5x5MatrixCounter.pdb
